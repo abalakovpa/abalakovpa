@@ -1,16 +1,18 @@
-## Hi there 👋
+# Павел Абалаков
 
-<!--
-**abalakovpa/abalakovpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Студент Уральского технического института связи и информатики (УрТИСИ)
+Специальность: 11.03.02 «Инфокоммуникационные технологии и системы связи»
 
-Here are some ideas to get you started:
+## Достижения
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Диплом за II место** — Всероссийский хакатон связи, УрТИСИ СибГУТИ, 14–17 ноября 2025
+
+![Диплом за II место](diplom.jpg)
+
+**Сертификат участника** — Всероссийский хакатон связи, УрТИСИ СибГУТИ, 15–18 ноября 2024
+
+![Сертификат участника](hackathon-certificate.jpg)
+
+## Проекты
+
+- [Svyaz Hack Payment OCR](https://github.com/icyobsidian/svyaz-hack-payment-ocr)
