@@ -5,7 +5,10 @@
 
 ## Достижения
 
-**Диплом за II место** — Всероссийский хакатон связи, УрТИСИ СибГУТИ, 14–17 ноября 2025
+**II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
+14–17 ноября 2025.
+
+Награда за проект [Svyaz Hack Payment OCR](https://github.com/icyobsidian/svyaz-hack-payment-ocr).
 
 ![Диплом за II место](diplom.jpg)
 
@@ -16,3 +19,4 @@
 ## Проекты
 
 - [Svyaz Hack Payment OCR](https://github.com/icyobsidian/svyaz-hack-payment-ocr)
+  — проект, за который получено II место на Всероссийском хакатоне связи в 2025 году.
