@@ -5,6 +5,12 @@
 
 ## Достижения
 
+**Участник трека «Умный город»** — хакатон MAX 2026.
+
+Сертификат участника с проектом [max-magistral-dispatcher](https://github.com/abalakovpa/max-magistral-dispatcher).
+
+[![Сертификат участника хакатона MAX 2026, трек «Умный город»](max-hackathon-2026-certificate.jpg)](max-hackathon-2026-certificate.pdf)
+
 **Финалист трека «Радиоинженер»** — МТС Engineer Hack 2026,
 17 октября 2026.
 
@@ -25,6 +31,8 @@
 
 ## Проекты
 
+- [max-magistral-dispatcher](https://github.com/abalakovpa/max-magistral-dispatcher)
+  — «Диспетчер ЖКХ в MAX»: чат-бот и мини-приложение для подачи заявок в управляющую компанию и отслеживания их статуса.
 - [mts-engineer-hack-2026-radio](https://github.com/abalakovpa/mts-engineer-hack-2026-radio)
   — проект indoor-системы связи для ТРК «Эльбрус», финалист трека «Радиоинженер» МТС Engineer Hack 2026.
 - [svyaz-hack-payment-ocr](https://github.com/icyobsidian/svyaz-hack-payment-ocr)
