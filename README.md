@@ -5,11 +5,12 @@
 
 ## Достижения
 
-**Участник трека «Умный город»** — хакатон MAX 2026.
+**II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
+14–17 ноября 2025.
 
-Сертификат участника с проектом [max-magistral-dispatcher](https://github.com/abalakovpa/max-magistral-dispatcher).
+Награда за проект [svyaz-hack-payment-ocr](https://github.com/icyobsidian/svyaz-hack-payment-ocr).
 
-[![Сертификат участника хакатона MAX 2026, трек «Умный город»](max-hackathon-2026-certificate.jpg)](max-hackathon-2026-certificate.pdf)
+![Диплом за II место](diplom.jpg)
 
 **Финалист трека «Радиоинженер»** — МТС Engineer Hack 2026,
 17 октября 2026.
@@ -18,12 +19,11 @@
 
 [![Сертификат финалиста МТС Engineer Hack 2026](mts-engineer-hack-2026-diploma.jpg)](mts-engineer-hack-2026-diploma.pdf)
 
-**II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
-14–17 ноября 2025.
+**Участник трека «Умный город»** — хакатон MAX 2026.
 
-Награда за проект [svyaz-hack-payment-ocr](https://github.com/icyobsidian/svyaz-hack-payment-ocr).
+Сертификат участника с проектом [max-magistral-dispatcher](https://github.com/abalakovpa/max-magistral-dispatcher).
 
-![Диплом за II место](diplom.jpg)
+[![Сертификат участника хакатона MAX 2026, трек «Умный город»](max-hackathon-2026-certificate.jpg)](max-hackathon-2026-certificate.pdf)
 
 **Сертификат участника** — Всероссийский хакатон связи, УрТИСИ СибГУТИ, 15–18 ноября 2024
 
