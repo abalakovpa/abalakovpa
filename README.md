@@ -5,19 +5,19 @@
 
 ## Достижения
 
-**II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
-14–17 ноября 2025.
-
-Награда за проект [svyaz-hack-payment-ocr](https://github.com/icyobsidian/svyaz-hack-payment-ocr).
-
-![Диплом за II место](diplom.jpg)
-
 **Финалист трека «Радиоинженер»** — МТС Engineer Hack 2026,
 17 октября 2026.
 
 Сертификат за проект [mts-engineer-hack-2026-radio](https://github.com/abalakovpa/mts-engineer-hack-2026-radio).
 
 [![Сертификат финалиста МТС Engineer Hack 2026](mts-engineer-hack-2026-diploma.jpg)](mts-engineer-hack-2026-diploma.pdf)
+
+**II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
+14–17 ноября 2025.
+
+Награда за проект [svyaz-hack-payment-ocr](https://github.com/icyobsidian/svyaz-hack-payment-ocr).
+
+![Диплом за II место](diplom.jpg)
 
 **Участник трека «Умный город»** — хакатон MAX 2026.
 
