@@ -12,6 +12,13 @@
 
 [![Сертификат финалиста МТС Engineer Hack 2026](mts-engineer-hack-2026-diploma.jpg)](mts-engineer-hack-2026-diploma.pdf)
 
+**III место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
+13–16 ноября 2026.
+
+Награда за проект [rostelecom-field-dispatch](https://github.com/abalakovpa/rostelecom-field-dispatch).
+
+![Диплом за III место](svyaz-hack-2026-diploma.jpg)
+
 **II место на Всероссийском хакатоне связи** — УрТИСИ СибГУТИ,
 14–17 ноября 2025.
 
